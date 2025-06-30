@@ -30,7 +30,7 @@ The core principle of GateKeeper is to monitor the integrity of the network's ga
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/gatekeeper.git](https://github.com/YOUR_USERNAME/gatekeeper.git)
+    git clone https://github.com/Mystery-World3/gatekeeper.git
     cd gatekeeper
     ```
 
