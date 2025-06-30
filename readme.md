@@ -1,4 +1,4 @@
-# GateKeeper v0.1
+# GateKeeper 
 
 GateKeeper is a simple but effective command-line tool designed to detect ARP spoofing attacks on a local network in real-time. It acts as a watchdog, constantly monitoring for malicious changes to the network's ARP table.
 
