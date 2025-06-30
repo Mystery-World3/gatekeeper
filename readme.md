@@ -52,10 +52,10 @@ The core principle of GateKeeper is to monitor the integrity of the network's ga
     The script must be run with elevated privileges.
     ```bash
     # On Windows, use a terminal that was "Run as administrator"
-    python gatekeeper.py
+    python main.py
 
     # On Linux/macOS
-    sudo python gatekeeper.py
+    sudo python main.py
     ```
     GateKeeper will now be monitoring your network.
 
