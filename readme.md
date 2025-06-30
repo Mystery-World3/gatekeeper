@@ -42,7 +42,7 @@ The core principle of GateKeeper is to monitor the integrity of the network's ga
     # source venv/bin/activate # On macOS/Linux
 
     # Install requirements from requirements.txt
-    pip install scapy rich
+    pip install -r requirements.txt
     ```
 
 3.  **Configure the Script:**
